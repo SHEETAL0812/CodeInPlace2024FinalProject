@@ -19,3 +19,5 @@ The Project Contains numerous important elements for Data Analysis by using Pyth
 15. Performed Data Cleaning.
 16. Performed Trend analysis in the Project to make Prediction about the Future.
 17. Performed Data Visualization to find useful insights from the data.
+
+![Final Project Image](https://github.com/SHEETAL0812/CodeInPlace2024FinalProject/assets/128026212/618f6a0e-6830-43ca-bfdf-3abcf87eae8c)
